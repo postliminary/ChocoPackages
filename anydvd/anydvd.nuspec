@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>anydvd</id>
+    <title>AnyDVD, AnyDVD HD</title>
+    <version>7.1.5.0</version>
+    <authors>Slysoft</authors>
+    <owners>caskater4</owners>
+    <summary>anydvd</summary>
+    <description>AnyDVD/AnyDVD HD works in the background to automatically and transparently enable read access of the contents of a movie DVD, Blu-Ray and HD DVD as soon as it's inserted into the drive. The DVD will become useable to your windows operating system and all programs on your computer, such as DVD-Backup-software like CloneDVD, Pinnacle InstantCopy, Intervideo DVDCopy and others, then supporting any DVD. AnyDVD optionally disables the RPC region codes, thereby making the movie region free and comfortably viewable on any DVD player and with any DVD player software.</description>
+    <projectUrl>http://www.slysoft.com/en/anydvd.html</projectUrl>
+    <tags>anydvd hd</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.slysoft.com/en/terms.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw.github.com/caskater4/ChocoPackages/master/anydvd/icon.png</iconUrl>
+    <releaseNotes>http://www.slysoft.com/download/changes_anydvd.txt</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
